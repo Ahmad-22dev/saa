@@ -56,7 +56,7 @@ export async function POST(request: Request) {
       service: 'gmail',
       auth: {
         user: 'solbannerr@gmail.com',
-        pass: 'your_app_password_here' // You should use environment variables for this in production
+        pass: 'x95570972Z' // You should use environment variables for this in production
       }
     });
 
